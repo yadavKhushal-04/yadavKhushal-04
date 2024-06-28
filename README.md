@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yadavKhushal-04
-- IIT Patna student 2nd year
+- IIT Patna student 3rd year
 - 📫 You can reach me through khushaly04@gmail.com
 
 <!---
