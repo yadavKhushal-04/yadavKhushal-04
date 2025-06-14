@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yadavKhushal-04
-- IIT Patna student 4th year
+<h1>Khushal yadav</h1>
+<h3>I am currently a $th year Btech student, pursuing Enginerring Physics at IIT Patna</h3>
 - 📫 You can reach me through khushaly04@gmail.com
 
 <!---
