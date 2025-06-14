@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Khushal yadav</h1>
+<h1 align="center">Khushal yadav</h1>
 <h3>I am currently a $th year Btech student, pursuing Enginerring Physics at IIT Patna</h3>
 - 📫 You can reach me through khushaly04@gmail.com
 
