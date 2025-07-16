@@ -4,7 +4,7 @@
 - 📫 You can reach me through khushaly04@gmail.com
 --->
 
-
+<!---
 <h1 align="center">Hi 👋, I'm Khushal Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -27,11 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavkhushal-04&show_icons=true&locale=en" alt="yadavkhushal-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavkhushal-04&" alt="yadavkhushal-04" /></p>
+--->
 
-
-<!---
-# 💫 About Me:
-I am currently a 4th year Student at IIT Patna<br>Can connect with me through: khushaly04@gmail.com
+<h1 align="center">Khushal yadav</h1>
+<h3>I am currently a 4th year Btech student, pursuing  Engineering Physics at IIT Patna</h3>
+- 📫 You can reach me through khushaly04@gmail.com
 
 
 ## 🌐 Socials:
@@ -51,4 +51,3 @@ I am currently a 4th year Student at IIT Patna<br>Can connect with me through: k
 [![](https://visitcount.itsvg.in/api?id=yadavKhushal-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
---->
