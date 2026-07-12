@@ -56,12 +56,12 @@ Full icon list & docs: https://skillicons.dev
 ### `~/github-stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavKhushal-04&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavKhushal-04&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavKhushal-04&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="45%" />
 </p>
 
 ---
@@ -69,20 +69,14 @@ Full icon list & docs: https://skillicons.dev
 ### `~/connect`
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]">
+  <a href="https://www.linkedin.com/in/khushal-yadav04">
     <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://x.com/[your-handle]">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
-  </a>
-  <a href="mailto:[your-email]">
+  <a href="mailto:khushaly04@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://[your-portfolio-site]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/[your-username]/count.svg" alt="visitor count"/>
+  <img src="https://profile-counter.glitch.me/yadavKhushal-04/count.svg" alt="visitor count"/>
 </p>
