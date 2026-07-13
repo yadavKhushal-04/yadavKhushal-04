@@ -79,5 +79,5 @@ Full icon list & docs: https://skillicons.dev
 
 <p align="center">
   <!-- <img src="https://profile-counter.glitch.me/yadavKhushal-04/count.svg" alt="visitor count"/>-->
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile+Views&color=FFB300&style=for-the-badge" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=yadavKhushal-04&label=Profile+Views&color=FFB300&style=for-the-badge" alt="visitor count"/>
 </p>
