@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_work-00FF41?style=for-the-badge&logo=terminal&logoColor=black" />
+  <img src="https://img.shields.io/badge/status-open_to_work-FFB300?style=for-the-badge&logo=terminal&logoColor=black" />
 </p>
 
 ```bash
@@ -73,10 +73,11 @@ Full icon list & docs: https://skillicons.dev
     <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:khushaly04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yadavKhushal-04/count.svg" alt="visitor count"/>
+  <!-- <img src="https://profile-counter.glitch.me/yadavKhushal-04/count.svg" alt="visitor count"/>-->
+  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile+Views&color=FFB300&style=for-the-badge" alt="visitor count"/>
 </p>
