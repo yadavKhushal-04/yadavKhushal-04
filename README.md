@@ -70,7 +70,7 @@ Full icon list & docs: https://skillicons.dev
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushal-yadav04">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFB300?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:khushaly04@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=black" />
